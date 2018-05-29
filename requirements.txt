@@ -1,1 +1,5 @@
-
+wxPython
+python-vlc
+pyperclip
+pafy
+google-api-python-client
